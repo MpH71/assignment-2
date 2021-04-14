@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding-left: 22px;
+    padding-right: 18px;
+    padding-bottom: 23px;
+}
+.newspaper{
+    width: 680px;
+    height: 700px;
+    background-color: rgb(0, 0, 0);
+    border-top:5px solid red;
+    border-left:5px solid red;
+    border-right:5px solid red ;
+    border-bottom:5px solid red ;
+    margin: 20px auto;
+    text-align: justify;
+    overflow: hidden;
+}
+.newspaper h4{
+    text-align: center;
+    font-size: 30px;
+    font-family: Elephant;
+    color: rgb(32, 80, 134);
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 18px;
+}
+.newspaper img{
+    width: 500px;
+    height: 300px;
+}
+body{
+    background-color: cornflowerblue;
+}
+p{
+    text-align: justify;
+    color: rgb(43, 220, 20);
+}
+p span:nth-child(1){
+    text-align:left;
+    color: rgb(206, 165, 61);
+}

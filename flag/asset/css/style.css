@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+}
+.indonesia{
+    width: 400px;
+    height: 135px;
+    margin: 10px auto;
+    background-color: rgb(214, 3, 3);
+    border-bottom: 135px solid white;
+    border-radius: 7px 7px 7px 7px;
+}
+body{
+    background-color: rgb(37, 36, 36);
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-family: Arial black;
+    color: rgb(184, 222, 240);
+
+}
+.Bangladesh{
+    width: 400px;
+    height: 270px;
+    background-color: rgb(22, 88, 22);
+    border: 1px;
+    margin: 20px auto;
+    border-radius: 7px 7px 7px 7px;
+    overflow: hidden;
+}
+.red {
+    width: 170px;
+    height: 170px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 47px auto;
+}
+.canada{
+    width: 200px;
+    height: 270px;
+    background-color: white;
+    margin: 30px auto;
+    border-left: 100px solid red;
+    border-right: 100px solid red;
+    border-radius: 7px 7px 7px 7px;
+    text-align: center;
+    overflow: hidden;
+}
+.canada img{
+    width: 165px;
+    height: 165px;
+    margin: 60px auto;
+}
+.russia{
+    width: 400px;
+    height: 90px;
+    background-color: navy;
+    border-top: 90px solid white;
+    border-bottom: 90px solid rgb(190, 0, 0);
+    border-radius: 7px 7px 7px 7px;
+    margin: 30px auto;
+}
+.egypt{
+    width: 400px;
+    height: 90px;
+    background-color: white;
+    border-top: 90px solid rgb(226, 10, 10);
+    border-bottom: 90px solid black;
+    border-radius: 7px 7px 7px 7px;
+    margin: 30px auto;
+    text-align: center;
+}
+.egypt img{
+    width: 50px;
+    height: 50px;
+    margin: 20px auto;
+}
+.japan{
+    width: 400px;
+    height: 270px;
+    background-color: white;
+    margin: 30px auto;
+    border-radius: 7px 7px 7px 7px;
+    overflow: hidden;
+}
+.re{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    background-color: red;
+    margin: 47px auto;
+}
+.Kuwaite{
+    width: 300px;
+    height: 90px;
+    background-color: white;
+    border-top: 90px solid rgb(58, 192, 58);
+    border-bottom:90px solid rgb(192, 48, 48);
+    border-left: 100px solid rgb(0, 0, 0) ;
+    border-radius: 7px 7px 7px 7px;
+    margin: 30px auto;
+}
+.Belgium{
+    width: 133px;
+    height: 270px;
+    background-color: yellow;
+    border-left: 133px solid black;
+    border-right: 133px solid rgb(168, 17, 6);
+    border-radius: 7px 7px 7px 7px;
+    margin:  30px auto;
+}
+.Germany{
+    width: 400px;
+    height: 90px;
+    background-color: red;
+    border-top: 90px solid black;
+    border-bottom: 90px solid rgb(224, 224, 11);
+    border-radius: 7px 7px 7px 7px;
+    margin: 30px auto;
+}
+.Lebanon{
+    width: 400px;
+    height: 150px;
+    background-color: white;
+    border-top: 60px solid rgb(221, 7, 7);
+    border-bottom: 60px solid rgb(221, 2, 2);
+     border-radius: 7px 7px 7px 7px;
+    margin: 30px auto;
+    overflow: hidden;
+    text-align: center;
+}
+.Lebanon img{
+    width: 150px;
+    height: 150px;
+}
